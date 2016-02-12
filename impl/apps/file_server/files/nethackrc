@@ -1,5 +1,0 @@
-# === OPTIONS for NETHACK ===
-
-OPTIONS=number_pad:2
-OPTIONS=color,hilite_pet,lit_corridor
-OPTIONS=boulder:0,autodig
